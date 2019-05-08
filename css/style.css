@@ -1,0 +1,46 @@
+.boton{
+    border-style: groove;
+    border-radius: 5px;
+    background-color: teal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    
+}
+
+.dos{
+    color: red;
+}
+
+.titulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.flex-container{
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+}
+
+.targeta{
+    border: 3px solid red;
+    padding: 20px;
+    width: 200px;
+    height: 255px;
+}
+
+.id{
+    margin-top: 35px;
+    text-align: center;
+}
+
+.tres{
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    float: right;
+}
+
+.imagen{
+    width: 200px;
+    height: 170px;
+}
